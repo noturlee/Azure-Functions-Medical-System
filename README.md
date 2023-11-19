@@ -6,14 +6,14 @@
 ## View Console Code
 Click the button below to view the console code file.
 
-<a href="path/to/your/console/code/file">
+<a href="ConsolePOE">
   <img src="https://img.shields.io/badge/View%20Console%20Code-green.svg" height="40">
 </a>
 
 ## View Trigger Code
 Click the button below to view the trigger code file.
 
-<a href="path/to/your/trigger/code/file">
+<a href="TriggerToTable">
   <img src="https://img.shields.io/badge/View%20Trigger%20Code-blue.svg" height="40">
 </a>
 
