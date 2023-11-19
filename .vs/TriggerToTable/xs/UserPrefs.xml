@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{48613C97-178D-4008-B78B-1B1BE2A985D1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriggerToTable/TriggerToTable.cs">
+    <Files>
+      <File FileName="TriggerToTable/TriggerToTable.cs" Line="17" Column="1" />
+      <File FileName="TriggerToTable/local.settings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TriggerToTable" expanded="True">
+            <Node name="TriggerToTable" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TriggerToTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
