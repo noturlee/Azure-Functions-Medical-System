@@ -1,6 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bF7geGsT)
 
-# CLOUD DEVELOPMENT POE
+
+# Ghandi Hospital Azure Patient System 
 
 
 ## View Console Code
@@ -20,7 +20,8 @@ Click the button below to view the trigger code file.
 <div align="right">
   <img src="https://i.pinimg.com/originals/6b/af/d7/6bafd77fd2633aa0b469df9cef31c6b8.gif" alt="Cloud Image" width="300">
 </div>
-
+<br>
+<br>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge">
